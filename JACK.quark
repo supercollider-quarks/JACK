@@ -8,6 +8,6 @@
 \country: "Netherlands",
 \since: "2009",
 \helpdoc: "Help/JACK.html",
-\ext_dependancy: "jack_connect, jack_lsp, meterbridge",
+\ext_dependency: "jack_connect, jack_lsp, meterbridge",
 \url: "http://www.nescivi.nl"
 )
